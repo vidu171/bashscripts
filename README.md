@@ -1,4 +1,4 @@
-# bashscripts
+# Shell scripts
 Some of my personal Scripts
 
 
