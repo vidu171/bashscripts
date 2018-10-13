@@ -4,17 +4,17 @@ function ilogin()
 {
     # Set your credentials in here
     
-	ion_user=j_179403054;
-        ion_password=c895f4;
+	ion_user=XXXXXX;
+        ion_password=XXXXXX;
 	user="kid";
     if [[ $1 == "2" ]]; then
-	ion_user=j_169103032;
-        ion_password=haaa1997;
+	ion_user=XXXXXX;
+        ion_password=XXXXXX;
 	user="chini";
 	fi	
     if [[ $1 == "3" ]]; then
-        ion_user=j_169105214;
-        ion_password=ionlogin;
+        ion_user=XXXXX;
+        ion_password=XXXXX;
 	user="vidu";
 	fi	
 	
@@ -49,17 +49,17 @@ function ilogin_delay()
 {
     # Set your credentials in here
     
-	ion_user=j_179403054;
-        ion_password=c895f4;
+	ion_user=XXXXX;
+        ion_password=XXXXX;
 	user="kid";
     if [[ $1 == "2" ]]; then
-	ion_user=j_169103032;
-        ion_password=haaa1997;
+	ion_user=XXXXX;
+        ion_password=XXXXX;
 	user="chini";
 	fi	
     if [[ $1 == "3" ]]; then
-        ion_user=j_169105214;
-        ion_password=ionlogin;
+        ion_user=XXXXX;
+        ion_password=XXXXX;
 	user="vidu";
 	fi	
 	
