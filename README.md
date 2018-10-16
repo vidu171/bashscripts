@@ -22,17 +22,13 @@ Add the following Line to `~/.bashrc` or `~/.zshrc` (for zsh)
 source ~/path/to/ion/script.sh 
 ```
 
-then login by typing
+then login or logout by typing
 
 ```sh
 $ ilogin 
-```
-and to Log out type 
-
-```sh
 $ ilogout 
 ```
-### 1 b. Setup to run as a shortcut
+### 1 c. Setup to run as a shortcut
 
 for ubuntu go to setings>Devices>Keyboards and add shortcut 
 in the command field add the path to shortcut script
